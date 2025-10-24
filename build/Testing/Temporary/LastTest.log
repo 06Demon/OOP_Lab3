@@ -1,0 +1,41 @@
+Start testing: Oct 25 02:07 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: FiguresTests
+1/1 Test: FiguresTests
+Command: "C:/Lobovikov/Programming/labs/OOP/lab3/build/runTests.exe"
+Directory: C:/Lobovikov/Programming/labs/OOP/lab3/build
+"FiguresTests" start time: Oct 25 02:07 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\Lobovikov\Programming\labs\OOP\lab3\build\_deps\googletest-src\googletest\src\gtest_main.cc
+[==========] Running 4 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.AreaAndCenter
+[       OK ] RhombusTest.AreaAndCenter (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] 1 test from PentagonTest
+[ RUN      ] PentagonTest.AreaCalculation
+[       OK ] PentagonTest.AreaCalculation (0 ms)
+[----------] 1 test from PentagonTest (0 ms total)
+
+[----------] 2 tests from HexagonTest
+[ RUN      ] HexagonTest.Equality
+[       OK ] HexagonTest.Equality (0 ms)
+[ RUN      ] HexagonTest.CenterCalculation
+[       OK ] HexagonTest.CenterCalculation (0 ms)
+[----------] 2 tests from HexagonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 3 test suites ran. (1 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FiguresTests" end time: Oct 25 02:07 RTZ 2 (çèìà)
+"FiguresTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 25 02:07 RTZ 2 (çèìà)
